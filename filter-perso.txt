@@ -1,0 +1,2 @@
+! https://www.japscan.lol
+www.japscan.lol##div[id^="d-img-"]:has(canvas[style="max-width: 100%; vertical-align: top;"]:not([width][height][data-x][data-y]))
